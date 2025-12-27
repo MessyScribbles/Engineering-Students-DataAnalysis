@@ -61,16 +61,10 @@ This project includes a Streamlit web application that allows users to input stu
 
 1. Prerequisites
 Ensure you have Python installed. You will need the following libraries:
-
-Bash
-
-pip install streamlit pandas numpy scikit-learn
+pip install streamlit pandas numpy scikit-learn , make sure to put train_model.py, app.py,model_tree.pkl and EngStudent_Db(Eng_Stats).csv in one folder.
 2. Path Configuration :
 Crucial Step: Before running the app, you must update the file path in the code to point to where the dataset or model is saved on your machine.
-
 Open app.py (or your Streamlit script) and look for the line loading the model or data:
-
-Python
 
 # CHANGE THIS PATH to your local file location
 df = pd.read_csv("C:/Users/YourName/Documents/Project/EngStudent_Db(Eng_Stats).csv", sep=";")
@@ -79,9 +73,8 @@ If you are just loading a saved model (.pkl file), ensure that path is correct a
 3. Running the App
 Open your terminal or command prompt, navigate to the project folder, and run:
 
-Bash
+python -m streamlit run app.py
 
-streamlit run app.py
 (Replace app.py with the actual name of your Python script if it's different).
 
 This will launch the application in your default web browser (usually at http://localhost:8501).
