@@ -1,7 +1,5 @@
 # Engineering-Students-DataAnalysis
 Analysis of engineering student performance using Machine Learning and Power BI.
-Here is a README.md file tailored for your GitHub repository. It includes the project overview, key findings, motivation (IBM certification + classwork), and detailed instructions for running the Streamlit app.
-
 Engineering Student Performance Analysis & Prediction
 Project Overview
 This project investigates the determinants of academic performance decline among engineering students at Université Internationale de Casablanca (UIC). By analyzing psychosocial, behavioral, and academic data from 114 students, this study identifies key risk factors such as burnout, stress, and study habits.
