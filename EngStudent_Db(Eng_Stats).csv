@@ -1,0 +1,115 @@
+Number;Gender;Performance_score;Stress_level;Average_hours_sleep;Class attendance;Burnout_Score;motivation_score;Studying_Consistency;Schedule_effect;feeling_lost;Troubled_Modules;Difficulty_Reason;Major
+1;M;0;3;5;0,95;4;5;Day before exam;No;No;0;NA;Engineering
+2;M;0;3;6;0,85;1;10;Daily;No;No;0;NA;Engineering
+3;M;1;0;6;1,00;2;0;Day before exam;No;No;1;Subject difficult for them;Engineering
+4;M;1;0;6;1,00;0;5;Day before exam;Yes;No;0;NA;Engineering
+5;M;0;6;5;1,00;4;6;Day before exam;No;No;0;NA;Engineering
+6;M;1;7;6;1,00;3;6;Daily;Yes;No;2;Problems with Prof;Engineering
+7;M;0;6;9;0,80;4;3;Day before exam;Yes;Yes;1;Problems with Prof;Engineering
+8;M;0;3;6;0,99;0;6;Day before exam;No;No;0;NA;Engineering
+9;F;1;6;7;0,75;5;6;Day before exam;Yes;Yes;3;Subject difficult for them;Engineering
+10;F;1;6;7;0,90;5;6;Day before exam;Yes;Yes;3;Subject difficult for them;Engineering
+11;F;1;6;6;0,95;5;2;Day before exam;Yes;Yes;0;NA;Engineering
+12;F;0;1;7;0,90;1;5;Few times during the week;Yes;No;1;Problems with Prof;Engineering
+13;F;1;9;5;1,00;5;0;Day before exam;Yes;Yes;3;Problems with Prof;Engineering
+14;F;0;5;6;0,70;5;2;Day before exam;Yes;No;0;NA;Engineering
+15;F;1;9;5;0,60;5;4;Day before exam;Yes;Yes;2;Subject difficult for them;Engineering
+16;M;0;7;6;0,75;3;8;Few times during the week;No;No;3;Problems with Prof;Engineering
+17;M;0;6;7;0,80;3;0;Day before exam;No;No;2;Subject difficult for them;Engineering
+18;M;0;3;5;0,75;2;0;Day before exam;No;Yes;0;NA;Engineering
+19;F;0;7;6;0,90;2;5;Day before exam;No;No;0;NA;Engineering
+20;M;0;0;7;0,60;1;7;Day before exam;No;Yes;1;Problems with Prof;Engineering
+21;M;0;0;8;0,70;5;5;Day before exam;Yes;No;0;NA;Engineering
+22;M;0;5;7;0,80;4;7;Day before exam;Yes;Yes;2;Problems with Prof;Engineering
+23;M;0;4;6;0,70;5;5;Few times during the week;No;No;1;Subject difficult for them;Engineering
+24;F;1;10;4;1,00;5;5;Day before exam;Yes;Yes;4;Subject difficult for them;Engineering
+25;M;0;10;7;0,70;5;4;Day before exam;Yes;No;4;Subject difficult for them;Engineering
+26;M;0;5;10;1,00;2;9;Few times during the week;No;No;1;Subject difficult for them;Engineering
+27;M;0;5;7;1,00;2;7;Few times during the week;No;No;2;Both;Engineering
+28;F;1;10;7;0,97;5;2;Few times during the week;No;No;3;Both;Engineering
+29;M;1;7;6;1,00;2;9;Few times during the week;Yes;No;0;NA;Engineering
+30;F;1;7;4;0,80;4;8;Day before exam;Yes;Yes;1;Problems with Prof;Engineering
+31;F;0;8;8;1,00;3;6;Few times during the week;Yes;Yes;1;Both;Engineering
+32;F;1;6;5;1,00;3;8;Day before exam;Yes;Yes;1;Both;Engineering
+33;M;0;6;6;0,60;5;10;Day before exam;Yes;Yes;3;Subject difficult for them;Engineering
+34;F;0;8;5;0,80;5;7;Day before exam;Yes;Yes;3;Problems with Prof;Engineering
+35;F;1;8;4;0,80;5;0;Day before exam;Yes;Yes;2;Subject difficult for them;Engineering
+36;F;1;9;5;0,75;4;2;Day before exam;Yes;Yes;3;Both;Engineering
+37;M;0;5;7;0,60;3;5;Day before exam;No;Yes;1;Problems with Prof;Engineering
+38;M;1;7;6;0,90;4;7;Few times during the week;Yes;No;0;NA;Engineering
+39;M;1;3;11;0,40;5;0;Day before exam;Yes;Yes;5;Both;Engineering
+40;F;1;9;4;0,95;4;2;Day before exam;Yes;Yes;2;Subject difficult for them;Engineering
+41;M;0;5;6;1,00;0;7;Few times during the week;Yes;No;1;Problems with Prof;Engineering
+42;M;1;2;6;1,00;2;10;Day before exam;No;Yes;1;Subject difficult for them;Engineering
+43;M;1;5;7;0,40;5;0;Day before exam;Yes;Yes;2;Both;Engineering
+44;M;0;5;6;1,00;5;10;Daily;No;No;0;NA;Engineering 
+45;M;0;6;6;1,00;2;6;Few times during the week;Yes;No;1;Subject difficult for them;Engineering
+46;M;0;5;6;1,00;2;10;Few times during the week;No;No;1;Subject difficult for them;Engineering 
+47;M;0;0;4;0,70;5;5;Day before exam;Yes;Yes;1;Subject difficult for them;Engineering
+48;M;0;7;7;1,00;3;8;Few times during the week;Yes;Yes;1;Problems with Prof;Engineering 
+49;F;1;5;7;0,80;4;6;Day before exam;Yes;Yes;2;Both;Engineering
+50;F;0;5;8;1,00;2;8;Few times during the week;Yes;Yes;0;NA;Engineering
+51;M;0;10;7;1,00;3;10;Few times during the week;Yes;Yes;3;Subject difficult for them;Engineering 
+52;M;0;7;7;1,00;0;9;Day before exam;Yes;Yes;4;Subject difficult for them;Engineering
+53;M;0;7;6;1,00;0;8;Day before exam;No;Yes;1;Subject difficult for them;Engineering
+54;M;0;8;8;1,00;3;5;Day before exam;No;Yes;2;Both;Engineering 
+55;F;1;8;8;1,00;3;6;Few times during the week;Yes;Yes;1;Both;Engineering 
+56;M;1;3;7;0,50;4;6;Day before exam;No;Yes;3;Subject difficult for them;Engineering 
+57;M;0;1;7;1,00;3;10;Day before exam;No;Yes;5;Subject difficult for them;Engineering 
+58;M;1;6;8;1,00;4;8;Day before exam;No;Yes;3;Both;Engineering 
+59;M;0;10;4;0,80;1;10;Few times during the week;Yes;No;1;Subject difficult for them;Engineering
+60;M;0;5;6;0,50;3;7;Day before exam;Yes;Yes;1;Subject difficult for them;Engineering
+61;M;0;5;6;0,80;5;10;Daily;No;No;0;NA;Engineering
+62;F;1;7;5;0,60;5;3;Day before exam;Yes;Yes;3;Both;Engineering
+63;M;0;6;6;0,90;2;6;Few times during the week;No;No;0;NA;Engineering
+64;F;1;9;5;1,00;5;3;Day before exam;Yes;Yes;2;Subject difficult for them;Engineering
+65;F;1;8;4;0,90;4;6;Day before exam;Yes;Yes;2;Subject difficult for them;Engineering
+66;F;1;6;3;0,60;5;5;Day before exam;No;Yes;3;Both;Engineering 
+67;F;1;5;6;1,00;2;3;Day before exam;No;Yes;2;Both;Engineering
+68;M;0;7;6;0,90;2;3;Day before exam;No;Yes;1;Both;Engineering
+69;F;0;5;6;0,90;2;6;Day before exam;No;Yes;3;Both;Engineering
+70;F;0;7;7;0,80;3;3;Day before exam;No;Yes;4;Subject difficult for them;Engineering
+71;M;0;10;7;0,90;0;3;Day before exam;Yes;Yes;1;Subject difficult for them;Engineering
+72;F;0;5;6;1,00;2;5;Few times during the week;Yes;Yes;1;Subject difficult for them;Engineering
+73;M;0;5;8;0,60;4;8;Day before exam;Yes;Yes;3;Subject difficult for them;Engineering
+74;F;1;10;6;0,50;5;5;Day before exam;Yes;Yes;4;Subject difficult for them;Engineering
+75;M;0;0;6;0,80;2;5;Few times during the week;Yes;Yes;2;Problems with Prof;Engineering
+76;F;0;7;6;1,00;3;3;Few times during the week;Yes;Yes;3;Problems with Prof;Engineering
+77;M;1;5;6;0,90;2;10;Day before exam;No;Yes;1;Problems with Prof;Engineering
+78;F;0;1;9;0,90;1;9;Few times during the week;No;Yes;2;Subject difficult for them;Engineering
+79;F;1;8;4;0,70;4;5;Day before exam;Yes;Yes;2;Subject difficult for them;Engineering
+80;F;1;8;2;0,40;5;3;Day before exam;Yes;Yes;5;Both;Engineering
+81;M;0;7;6;0,90;2;7;Few times during the week;No;No;0;NA;Engineering
+82;F;1;5;5;0,80;5;4;Day before exam;Yes;Yes;2;Both;Engineering
+83;F;1;2;6;0,80;4;4;Day before exam;Yes;Yes;1;Problems with Prof;Engineering
+84;F;1;3;4;1,00;3;4;Day before exam;Yes;Yes;4;Both;Engineering
+85;M;0;0;6;1,00;2;8;Few times during the week;No;No;0;NA;Engineering
+86;M;0;1;8;1,00;1;9;Daily;No;No;0;NA;Engineering
+87;M;0;1;7;0,70;2;10;Daily;No;No;0;NA;Engineering
+88;F;0;3;6;0,70;1;10;Daily;No;No;0;NA;Engineering
+89;M;1;6;6;0,50;2;6;Day before exam;Yes;No;0;NA;Engineering
+90;M;1;4;4;0,50;4;4;Day before exam;No;Yes;1;Subject difficult for them;Engineering
+91;F;1;5;6;0,70;3;3;Day before exam;Yes;Yes;1;Subject difficult for them;Engineering
+92;M;0;5;7;0,90;4;6;Few times during the week;No;Yes;2;Both;Engineering
+93;F;0;5;8;0,80;5;7;Few times during the week;No;No;0;NA;Engineering
+94;M;0;3;4;0,80;5;7;Daily;No;No;0;NA;Engineering
+95;F;1;9;5;0,60;2;5;Day before exam;Yes;Yes;3;Both;Engineering
+96;M;0;8;4;0,90;1;9;Daily;Yes;No;0;NA;Engineering
+97;F;1;7;4;0,90;4;5;Day before exam;No;Yes;3;Problems with Prof;Engineering
+98;F;1;3;6;0,70;4;4;Day before exam;No;Yes;3;Problems with Prof;Engineering
+99;F;0;1;8;1,00;2;10;Day before exam;Yes;No;0;NA;Engineering
+100;M;1;10;8;1,00;5;7;Few times during the week;Yes;Yes;1;Subject difficult for them;Engineering
+101;F;0;6;5;0,9;3;8;Few times during the week;No;No;0;NA;Engineering
+102;F;1;7;6;0,8;4;6;Day before exam;Yes;Yes;1;Problems with Prof;Engineering
+103;F;1;9;6;0,7;4;6;Day before exam;Yes;Yes;2;Both;Engineering
+104;F;1;8;6;0,9;5;9;Day before exam;Yes;Yes;1;Subject difficult for them;Engineering
+105;F;0;5;5;1;2;9;Daily;No;No;0;NA;Engineering
+106;F;1;10;7;0,5;5;5;Day before exam;Yes;Yes;1;Problems with Prof;Engineering
+107;F;1;9;8;0,6;5;4;Day before exam;Yes;Yes;3;Subject difficult for them;Engineering
+108;F;0;8;6;0,9;3;7;Few times during the week;No;No;0;NA;Engineering
+109;F;0;5;6;0,7;3;8;Few times during the week;No;No;0;NA;Engineering
+110;F;1;9;4;0,9;5;5;Day before exam;Yes;Yes;1;Both;Engineering
+111;F;0;4;6;0,8;5;8;Few times during the week;No;No;0;NA;Engineering
+112;F;1;8;4;0,7;3;4;Day before exam;Yes;Yes;2;Subject difficult for them;Engineering
+113;F;1;7;5;0,7;5;4;Day before exam;Yes;Yes;2;Subject difficult for them;Engineering
+114;F;1;6;4;0,7;5;3;Day before exam;Yes;Yes;3;Both;Engineering
