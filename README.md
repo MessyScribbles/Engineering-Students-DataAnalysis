@@ -5,7 +5,7 @@ This project investigates the determinants of academic performance decline among
 
 
 
-The project culminates in a machine learning model capable of predicting "at-risk" students with 86.2% accuracy, creating a foundation for early-warning systems in educational environments.
+The project culminates in a machine learning model capable of predicting "at-risk" students with ≈80% accuracy, creating a foundation for early-warning systems in educational environments.
 
 
 Objectives:
